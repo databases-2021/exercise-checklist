@@ -16,11 +16,11 @@ document if viewed on GitHub.com
 
 Please solve any mergeconflicts that may occur in your project.
 
-### 👎 Bad ✔️
+### 👎 Bad ❌️
 
 ![](img/name-mergeconflict-bad.jpg)
 
-### 👍 Good ❌
+### 👍 Good ✔️
 
 ![](img/name-mergeconflict-good.jpg)
 
@@ -31,11 +31,11 @@ Please solve any mergeconflicts that may occur in your project.
 **Exercises that are not marked will not be reviewed !!!** Make sure to mark all the
 completed exercises. Do not mark any exercises that are not completed.
 
-### 👎 Bad ✔️
+### 👎 Bad ❌️
 
 ![](img/exercise-list-bad.jpg)
 
-### 👍 Good ❌
+### 👍 Good ✔️
 
 ![](img/exercise-list-good.jpg)
 
@@ -49,11 +49,11 @@ inspect the markdown result (press `F1` -> `Markdown: Open preview at the side`)
 
 If markdown is unreadable, **the document will not be reviewed**.
 
-### 👎 Bad ✔️
+### 👎 Bad ❌️
 
 ![](img/markdown-markup-bad.jpg)
 
-### 👍 Good ❌
+### 👍 Good ✔️
 
 ![](img/markdown-markup-good.jpg)
 
@@ -75,10 +75,10 @@ The `MariaDB [database_name]>` and `-->` are parts of the mysql client, but are
 NOT valid SQL code. Please remove these marks, as the results cannot be executed
 and verified by running them again.
 
-### 👎 Bad ✔️
+### 👎 Bad ❌
 
 ![](img/sql-bad.jpg)
 
-### 👍 Good ❌
+### 👍 Good ✔️
 
 ![](img/sql-good.jpg)
