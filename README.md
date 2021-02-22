@@ -7,8 +7,21 @@ to make sure you comply to all of them.
 
 Please make sure to fill in your name at the marked space at the top of the document.
 
-Also note that the 'Markdown Linter' badge should be visible in the resulting
-document if viewed on GitHub.com
+---
+
+## Make sure you ONLY give valid SQL answers
+
+The `MariaDB [database_name]>` and `-->` are parts of the mysql client, but are
+NOT valid SQL code. Please remove these marks, as the results cannot be executed
+and verified by running them again.
+
+### 👎 Bad ❌
+
+![](img/sql-bad.jpg)
+
+### 👍 Good ✔️
+
+![](img/sql-good.jpg)
 
 ---
 
@@ -23,21 +36,6 @@ Please solve any mergeconflicts that may occur in your project.
 ### 👍 Good ✔️
 
 ![](img/name-mergeconflict-good.jpg)
-
----
-
-## No exercises marked
-
-**Exercises that are not marked will not be reviewed !!!** Make sure to mark all the
-completed exercises. Do not mark any exercises that are not completed.
-
-### 👎 Bad ❌️
-
-![](img/exercise-list-bad.jpg)
-
-### 👍 Good ✔️
-
-![](img/exercise-list-good.jpg)
 
 ---
 
@@ -59,26 +57,7 @@ If markdown is unreadable, **the document will not be reviewed**.
 
 ## Check for linter errors
 
-Make sure you have no Markdown linter errors in your project.
-You can watch the result of the linter on GitHub in your commit list.
-
-You can also inspect the warnings and errors in VSCode using the following extension: 
+Use a markdown linter for warnings and errors in VSCode using the following extension:
 https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
 
-![](img/linter-errors.jpg)
-
 ![](img/linter-errors-example.jpg)
-
-## Make sure you ONLY give valid SQL answers
-
-The `MariaDB [database_name]>` and `-->` are parts of the mysql client, but are
-NOT valid SQL code. Please remove these marks, as the results cannot be executed
-and verified by running them again.
-
-### 👎 Bad ❌
-
-![](img/sql-bad.jpg)
-
-### 👍 Good ✔️
-
-![](img/sql-good.jpg)
